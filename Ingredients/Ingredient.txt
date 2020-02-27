@@ -1,0 +1,3 @@
+Sugar=2teaspoon
+TeaLeaf=1teaspoon
+water=150ml
